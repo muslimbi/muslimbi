@@ -1,3 +1,53 @@
+<h1 align="center">Hi 👋, I'm Deen Islam (muslimbi)</h1>
+<h3 align="center">IoT, AI (GPT), and Fullstack Developer</h3>
+
+<p align="center">
+  <b>muslimbi</b> is my official ID everywhere on the internet.<br>
+  Find me on GitHub, LinkedIn, Twitter, and other platforms as <b>muslimbi</b>.
+</p>
+
+---
+
+- 🌐 Building intelligent applications with IoT and AI (GPT).
+- 🤖 Experience with OpenAI GPT, Hugging Face Transformers, chatbots, and AI-powered automation.
+- 🔌 IoT specialist: Arduino, Raspberry Pi, ESP32, MQTT, cloud IoT platforms.
+- 💻 Fullstack developer: React, Vue, Laravel, Node.js, Python.
+- 🚀 Passionate about connecting devices and data for smarter solutions.
+
+---
+
+<h3 align="left">Featured Projects</h3>
+
+- [Laravel Auto Script](https://github.com/muslimbi/laravelautoscript): Automates Laravel deployment and configuration.
+- [IVAC](https://github.com/muslimbi/ivac): Collaborative innovation in automation.
+- [WHMCS](https://github.com/muslimbi/WHMCS): Web hosting management automation.
+- 🧠 AI & GPT: Chatbots, recommendation engines, smart assistants using OpenAI APIs.
+- 🔗 IoT: Smart home devices, sensor networks, cloud-connected systems.
+
+---
+
+<h3 align="left">Skills & Tools</h3>
+
+- IoT: Arduino, Raspberry Pi, ESP32, MQTT, Node-RED, Cloud IoT
+- AI/GPT: OpenAI API, Hugging Face, LangChain, Python
+- Frontend: React, Vue, JavaScript
+- Backend: Node.js, Laravel, Python, PHP
+- DevOps: Docker, GitHub Actions
+- Cloud: AWS, Google Cloud, Firebase
+
+---
+
+<h3 align="left">Connect with Me</h3>
+<p align="left">
+  <a href="mailto:muslimbi@gmail.com">Email</a> |
+  <a href="https://linkedin.com/in/muslimbi">LinkedIn</a> |
+  <a href="https://twitter.com/muslimbi">Twitter</a>
+</p>
+
+---
+
+_Always innovating at the intersection of technology and intelligence. Open to collaboration and new opportunities!_
+
 <h1 align="center">Hi 👋, I'm Deen Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
